@@ -40,6 +40,5 @@
 <br>
 
 <p>
-  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NitishKumar-Idexcel&langs_count=8" alt="NitishKumar-Idexcel"/>
   <img  src="https://github-readme-stats.vercel.app/api?username=NitishKumar-Idexcel&show_icons=true&locale=en" alt="NitishKumar-Idexcel"/>
 </p>
