@@ -38,8 +38,5 @@
 <a href="https://www.postgresql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 </p>
 <br>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NitishKumar-Idexcel&langs_count=8" alt="NitishKumar-Idexcel"/>
   <img  src="https://github-readme-stats.vercel.app/api?username=NitishKumar-Idexcel&show_icons=true&locale=en" alt="NitishKumar-Idexcel"/>
 </p>
